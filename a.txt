@@ -1,6 +1,6 @@
 line1
-line2
-line3
+changed-by-s0
+more-s0
 line4
 line5
 line6
