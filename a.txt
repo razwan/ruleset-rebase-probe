@@ -1,6 +1,6 @@
 line1
 changed-by-s0
-line3
+more-s0
 line4
 line5
 line6
